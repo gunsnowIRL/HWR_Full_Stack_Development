@@ -17,7 +17,7 @@ Full-Stack-Development project for HWR Berlin
 
 Die **Praktikumsstelle der HWR** ist als Stakeholder beteiligt, nutzt die Anwendung aber nicht selbst. Ihre Prozesse (z. B. die Genehmigung von Praktika) werden nicht in der Plattform abgebildet.
 
-## Unsere Lösung
+### Unsere Lösung
 
 Wir entwickeln eine **Praktikumsplattform für die HWR Berlin**, die Unternehmen und Studierende zusammenbringt. Die Plattform selbst bietet keine Praktika an. Ihr Wert entsteht durch die Vermittlung zwischen den Gruppen: Je mehr geprüfte Unternehmen Stellen anbieten, desto attraktiver ist sie für Studierende, und je mehr Studierende sie nutzen, desto interessanter ist sie für Unternehmen.
 
