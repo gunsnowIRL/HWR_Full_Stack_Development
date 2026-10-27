@@ -1,31 +1,42 @@
-# PraFi - Praktikumsfinder
-Full-Stack-Development project for HWR Berlin
+# 01: PraFi - Praktikumsfinder
+Projekt im Fach "Full-Stack Web Development" Wi-Inf-M09-F02-WiSe-2026-70027 WiSe 2026/27
+| Key | Value |
+|---|---|
+|*Status*| work in progress
+|*Updated*:| 27.10.2026
 
-**Die Suche nach einem passenden Praktikumsplatz ist für viele Studierende schwierig. Die Gründe sind unterschiedlich:**
+### Problemstellung
+**Wie können wir die Praktikumssuche und -vermittlung durch eine Web-App Lösung sowohl für die Studierende, als auch für die Unternhmen möglichst trnasparent und weffizient gestalten, damit passende Bewerber und qualifizierte Praktikumsplätze besser zusammenfinden?**
 
-- Auf attraktive Stellen bewerben sich sehr viele Personen.
-- Studierende wissen oft nicht genau, welche Richtung sie einschlagen wollen.
+Die Suche nach einem passenden Praktikumsplatz ist heutzutage für viele Studierende schwierig. Die Gründe sind hierbei unterschiedlich:
+
+- attraktive Stellen bei bekannten Unternehmen werden in der Regel schnell besetzt
+- Studierende wissen oft nicht genau, welche Richtung sie einschlagen wollen
 - Angaben zu Gehalt, Ort und Aufgaben sind über viele Portale verstreut und schwer vergleichbar.
 - Es ist unklar, ob die Hochschule eine Stelle als Pflichtpraktikum überhaupt anerkennt.
 
-**Die Plattform richtet sich an drei Gruppen:**
+Die Plattform richtet sich an zwei Gruppen:
 
 | Gruppe | Problem |
 |---|---|
-| **Studierende der HWR Berlin** | Keine zentrale Übersicht über passende und von der Hochschule anerkannte Praktikumsangebote |
+| **Studierende der HWR Berlin** | Keine effiziente Übersicht über ansprechende und gleichzeitig von der Hochschule anerkannte Praktikumsangebote |
 | **Unternehmen** | Geringe Sichtbarkeit bei Studierenden, viele unqualifizierte Bewerbungen, aufwendige Vorauswahl |
 
-Die **Praktikumsstelle der HWR** ist als Stakeholder beteiligt, nutzt die Anwendung aber nicht selbst. Ihre Prozesse (z. B. die Genehmigung von Praktika) werden nicht in der Plattform abgebildet.
+Die **Praktikumsstelle der HWR** ist als Stakeholder beteiligt, nutzt die Anwendung aber nicht selbst.
 
 ### Unsere Lösung
 
 Wir entwickeln eine **Praktikumsplattform für die HWR Berlin**, die Unternehmen und Studierende zusammenbringt. Die Plattform selbst bietet keine Praktika an. Ihr Wert entsteht durch die Vermittlung zwischen den Gruppen: Je mehr geprüfte Unternehmen Stellen anbieten, desto attraktiver ist sie für Studierende, und je mehr Studierende sie nutzen, desto interessanter ist sie für Unternehmen.
 
+Durch den Vorschag von [Hannes] (https://github.com/gunsnowIRL) haben wir uns kollektiv dazu entschieden, dass die Prozesse des Praktikumsbüros der HWR, wie z. B. die Genehmigung von Praktika,  nicht in der Plattform abgebildet werden.
+
+## Entscheidungen
+
 ### Funktionen
 
-- **Stellenbörse:** Unternehmen veröffentlichen Praktikumsstellen mit Position, Gehalt, Ort und weiteren Angaben.
-- **Such- und Filterfunktion:** Studierende finden passende Stellen zentral an einem Ort.
+- **Stellenbörse:** Unternehmen veröffentlichen Praktikumsstellen mit Position, Gehalt, Ort, Aufgabenbeschreibung, Anforderungen und ggf. weiteren Angaben.
+- **Such- und Filterfunktion:** Studierende selektieren selbstständig nach eigenen Präferenzen passende Stellen zentral an einem Ort.
 - **Geprüfte Praktikumsstellen:** Die Praktikumsstelle der HWR prüft die Angebote. Studierende sehen dadurch direkt, welche Stellen von der Hochschule anerkannt sind.
-- **Zugang nur für Hochschulangehörige:** Studierende registrieren sich ausschließlich mit ihrer Uni-Mail und geben ihren Studiengang an. Unternehmen erhalten dadurch qualifiziertere Bewerbungen.
+- **Zugang nur für Hochschulangehörige:** Studierende registrieren sich ausschließlich mit ihrer Uni-Mail und geben ihren Studiengang als Pflichtangabe an. 
 - **Bewertung durch Studierende:** Nach Abschluss eines Praktikums können Studierende das Unternehmen bewerten. Gut bewertete Unternehmen erhalten die Auszeichnung „Von Studierenden empfohlen“.
 - **Schwarzes Brett (optional):** Studierende können eigene Gesuche veröffentlichen, auf die Unternehmen reagieren können.
