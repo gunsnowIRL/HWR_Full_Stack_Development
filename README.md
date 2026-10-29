@@ -48,4 +48,4 @@ Durch den Vorschag von [Hannes] (https://github.com/gunsnowIRL) haben wir uns ko
 
 ### UI-Skizze:
 
-### Happy-Path:
+### Happy-Path
