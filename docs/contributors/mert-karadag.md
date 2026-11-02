@@ -7,7 +7,7 @@
 >
 > You may delete this `!CAUTION` box.
 
-# Jane Dane
+# Mert Karadag
 
 ## Meta-Goals
 
@@ -23,7 +23,7 @@
 
 ## Eidesstattliche Erklärung
 
-**[Jane Dane, Matrikelnr.: 1234567]**
+**[Mert Karadag, Matrikelnr.: 77211933697]**
 
 Ich erkläre an Eides statt:
 
