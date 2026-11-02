@@ -1,11 +1,5 @@
 [← Contributors](README.md)
 
-> [!CAUTION]
-> Create a separate, individual file for every team member, proposed naming scheme: `📄firstname-lastname.md`.
->
-> *Find and replace* (VS Code: <kbd>Ctrl</kbd>+<kbd>H</kbd> / <kbd>⌘</kbd>+<kbd>H</kbd>) `Jane Dane` with the student's name. On this template page, you will find this name 3 times (including in this `!CAUTION` box). 
->
-> You may delete this `!CAUTION` box.
 
 # Mert Karadag
 
@@ -15,9 +9,17 @@
 
 [State your target grade for this module. This is meant as a signal to your fellow team members.]
 
+Meine angestrebte Note für dieses Modul ist 1,5.
+
 ### Personal goals
 
 [State your personal goals regarding this Module, to create transparency among the team members.]
+
+Mein persönliches Ziel ist es, meine Programmierkenntnisse zu erweitern und praktische Erfahrungen in der Full-Stack-Webentwicklung zu sammeln. Da ich bereits Grundkenntnisse in Java habe, möchte ich darauf aufbauen und im Laufe des Moduls Python und Flask erlernen.
+
+Außerdem möchte ich besser verstehen, wie Frontend, Backend und Datenbanken zusammenarbeiten, und das Gelernte direkt in unserem Projekt PraFi anwenden.
+
+Ein weiteres Ziel ist es, meine Kenntnisse in Git und GitHub zu verbessern, mich aktiv in die Teamarbeit einzubringen und eigenständig Verantwortung für die Entwicklung einer Funktion unserer Anwendung zu übernehmen.
 
 ---
 
