@@ -29,24 +29,28 @@ Unsere Nachfrageseite stellt die Studierendenschaft der HWR Berlin dar, die im R
 
 ### Demand Side: Unternehmen, die Praktikanten suchen
 
-Der zweite Pfad der Nachfrageseite bezieht sich auf Unternehmen, die nach Praktikanten suchen. In der derzeitigen Situation suchen Unternehmen breit nach Studierenden, indem sie ihre Stellenangebote auf vielen Plattformen ausschreiben. 
+Der zweite Pfad der Nachfrageseite bezieht sich auf Unternehmen, die nach Praktikanten suchen. In der derzeitigen Situation suchen Unternehmen breit nach Studierenden, indem sie ihre Stellenangebote auf vielen Plattformen ausschreiben. Problematisch ist dabei die große Zahl an Bewerbungen nach Qualifikation für die Stelle zu sortieren, also qualifizierte BewerberInnen von unqualifizierten zu trennen.
 
 ### Supply Side: Unternehmen, die Praktika anbieten
 
-Die Unternehmen, die deutschlandweit auf der Suche nach PraktikantInnen sind und entsprechende Stellen 
-[Describe who these users are, what they have to offer, and which problem or need motivates them to participate. Again, be specific and grounded in reality.]
+Dieselben Unternehmen, die auf der Suche nach Praktikanten sind, stellen natürlich auch die entsprechenden Stellen bereit. Somit finden sie sich sowohl auf der Demand- als auch auf der Supply-Seite. Die Probleme sind ähnlich, wie oben bereits erwähnt: sie bieten Praktikumsplätze an, die möglichst von Personen besetzt werden sollen, die intern auch einen Mehrwert schaffen können. Ein gewisses Maß an fachlicher Expertise wird erwartet, um Arbeitsprozesse, die während des Praktikums betrachtet werden sollen, auch verstehen zu können. 
+
+### Supply Side: Studierende, die Arbeitskraft anbieten
+Da es sich bei den Praktika an der HWR Berlin um Pflichtpraktika handelt, gibt es eine große Zahl von Studierenden, die ihre Arbeitskraft für die Zeit des Praktikums zur Verfügung stellen können. Somit finden auch sie sich auf der Supply-Seite wieder, um die Nachfrage nach Arbeitskräften der Unternehmen zu decken. Die Motivation und Probleme decken sich mit denen der Studierenden auf der Demand-Seite, da es sich um die andere Seite derselben Münze handelt. 
+
 
 ## Our Platform Solution
 
-[Briefly describe the purpose of your platform. What brings the two user groups together? What is being offered, requested, or exchanged?]
+Unser Ziel ist es eine Praktikumsplattform für die HWR Berlin zu entwickeln, die Unternehmen und Studierende zusammenbringt und die obengenannte Probleme löst. Die Plattform selbst bietet keine Praktika an. Ihr Wert entsteht durch die Vermittlung zwischen den Gruppen: Je mehr geprüfte Unternehmen Stellen anbieten, desto attraktiver ist sie für Studierende, und je mehr Studierende sie nutzen, desto interessanter ist sie für Unternehmen.
 
 ### Solution for the Demand Side
 
-[Explain how your application addresses the demand-side users' problem. Why would they choose to use your platform?]
+Auf der Demand-Seite werden sowohl die Studierenden, die sich auf der Seite als Praktikanten anbieten, als auch die Unternehmen, deren Arbeitsplätze benötigt werden, mit einem Profil abgedeckt. So können sowohl die Studierenden als auch die Unternehmen auf der Supply-Seite eine schnelle Vorauswahl treffen, ob entsprechende Angebote auf ihr persönliches Interessenprofil passen. Außerdem werden für die Studierenden Möglichkeiten geboten, das Angebot auf der Seite zu sortieren, etwa nach Studiengang, um eine Eignung der Praktikumsgeber für das eigene Fertigkeitsprofil sicherzustellen. Weiterhin soll es eine Bewertungsfunktion ("von Studierenden ausgezeichnet") geben, die einen Praktikumsgeber schnell sichtbar als attraktiv für das eigene Praktikum markierenn. Für die Übersichtlichkeit wird zudem eine Favoriten-Funktion bereitgestellt, die es erlaubt, mehrere Praktikumsgeber abzuspeichern und später erneut aufzurufen. Dadurch wird die Suche nach Praktika auf eine Webapp beschränkt. 
 
 ### Solution for the Supply Side
 
-[Explain how your application addresses the supply-side users' problem. Why would they choose to offer their services, products, or resources through your platform?]
+Für die Angebotsseite werden sowohl von den Studierenden als auch von den Unternehmen Profile bereitgestellt, die eine Überprüfung des Angebots zulassen. Darin finden sich bei Studierenden Dokumente wie Lebennläufe, Zeugnisse oder Motivationsschreiben, sowie eine kurze Selbstbeschreibung mitsamt vorhandener Skills, sowie Kontaktmöglichkeiten. Auf der Unternehmensseite finden sich die angebotenen Stellenanzeigen sowie eine Beschreibung der Stelle, der Anforderungen und des Unternehmens. Um Fragen über das Angebot schnell und direkt abwickeln zu können, gibt es die Möglichkeit von Direkchats in der Seite. Außerdem ist eine Form eines "Schwarzen Bretts" geplant, in der Studierennde eigene Gesuche veröffentlichen können, auf die sich die Unternehmen melden können. 
+
 
 ## Happy Paths
 
