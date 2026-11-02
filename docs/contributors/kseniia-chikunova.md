@@ -11,7 +11,7 @@ etwa 1.3 oder 1.7
 
 ### Personal goals
 
-Mein persönlcihes Ziel in diesem Modul ist es in erster Linie, gemeinsam mit dem Team eine funktionsfähige Webapplikation zum Thema der Praktikumssuche an unserer Hochschule zu entiscken. Dabei möchte ich auf jeden Fall sowohl die Backend- als auch Frontend- Entsicklung besser verstehen und mir die Kenntnisse in Flask und den Umgang mit APIs aneignen. Da ich schon Erfahrung mit Python und SQLite habe, möchte ich meine Kenntnisse gerne vertiefen. Außerdem möchte ich meine Fähigkeiten in Visual Studio Code erweitern, da ich bisher hauptsächlich mit PyCharm gearbeitet habe.
+Mein persönlcihes Ziel in diesem Modul ist es in erster Linie, gemeinsam mit dem Team eine funktionsfähige Webapplikation zum Thema der Praktikumssuche an unserer Hochschule zu entwickeln. Dabei möchte ich auf jeden Fall sowohl die Backend- als auch Frontend- Entwicklung besser zu verstehen und mir die Kenntnisse in Flask und den Umgang mit APIs aneignen. Da ich schon Erfahrung mit Python und SQLite habe, möchte ich meine Kenntnisse gerne vertiefen. Außerdem möchte ich meine Fähigkeiten in Visual Studio Code erweitern, da ich bisher hauptsächlich mit PyCharm gearbeitet habe.
 Neben den tecchnischen Aspekten ist mir auch eine möglichst strukturierte und effektive Zusammenarbeit im Team wichtig.
 
 ## Eidesstattliche Erklärung
