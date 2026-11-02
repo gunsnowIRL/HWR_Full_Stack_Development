@@ -1,29 +1,26 @@
 [← Contributors](README.md)
 
-> [!CAUTION]
-> Create a separate, individual file for every team member, proposed naming scheme: `📄firstname-lastname.md`.
->
-> *Find and replace* (VS Code: <kbd>Ctrl</kbd>+<kbd>H</kbd> / <kbd>⌘</kbd>+<kbd>H</kbd>) `Jane Dane` with the student's name. On this template page, you will find this name 3 times (including in this `!CAUTION` box). 
->
-> You may delete this `!CAUTION` box.
-
-# Jane Dane
+# Yasin Bektas
 
 ## Meta-Goals
 
 ### Target grade
 
-[State your target grade for this module. This is meant as a signal to your fellow team members.]
+1.0 - 1.7
 
 ### Personal goals
 
 [State your personal goals regarding this Module, to create transparency among the team members.]
 
----
+My main goal for this module is to get a good grade.
+
+I want to properly understand the basics of full-stack web development and especially Python. As an information systems student, I see it as part of my degree.
+
+Personally, I'm hoping for a smooth workflow, good group work and a good time together.
 
 ## Eidesstattliche Erklärung
 
-**[Jane Dane, Matrikelnr.: 1234567]**
+**[Yasin Bektas, Matrikelnr.: 77211933574]**
 
 Ich erkläre an Eides statt:
 
