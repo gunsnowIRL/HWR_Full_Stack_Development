@@ -70,4 +70,5 @@ Illustrate the typical successful interaction with your platform from both user 
 
 ## Initial Target Scope (as per Assignment)
 [Erst-Visualisierung der Web-App](https://www.figma.com/design/mNUL20xoICYd0ZvvsiPgz0/AppDevelopment?node-id=0-1&p=f&t=wrRFWj0ddMC6KJ3H-0)
+[Visualisierung als SVG](assets/images/Happy_Paths.svg)
 
