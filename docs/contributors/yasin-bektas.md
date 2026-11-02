@@ -10,8 +10,6 @@
 
 ### Personal goals
 
-[State your personal goals regarding this Module, to create transparency among the team members.]
-
 My main goal for this module is to get a good grade.
 
 I want to properly understand the basics of full-stack web development and especially Python. As an information systems student, I see it as part of my degree.
