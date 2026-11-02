@@ -60,14 +60,14 @@ Illustrate the typical successful interaction with your platform from both user 
 
 ### Demand-Side Happy Path
 
-[Show the demand-side user "happy path".]
+[Demand-Side Happy Path im HTML-Dokument öffnen](assets/html/happy_paths.drawio.html)
 
 ### Supply-Side Happy Path
 
-[Show the supply-side user "happy path".]
+[Supply-Side Happy Path im HTML-Dokument öffnen](assets/html/happy_paths.drawio.html)
 
 ---
 
 ## Initial Target Scope (as per Assignment)
+[Erst-Visualisierung der Web-App](https://www.figma.com/design/mNUL20xoICYd0ZvvsiPgz0/AppDevelopment?node-id=0-1&p=f&t=wrRFWj0ddMC6KJ3H-0)
 
-[Include your visual scoping of the web app (e.g., UI screens scribbles), as elaborated for your Assignment at start of the project.]
