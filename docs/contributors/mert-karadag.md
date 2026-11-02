@@ -7,13 +7,9 @@
 
 ### Target grade
 
-[State your target grade for this module. This is meant as a signal to your fellow team members.]
-
 Meine angestrebte Note für dieses Modul ist 1,5.
 
 ### Personal goals
-
-[State your personal goals regarding this Module, to create transparency among the team members.]
 
 Mein persönliches Ziel ist es, meine Programmierkenntnisse zu erweitern und praktische Erfahrungen in der Full-Stack-Webentwicklung zu sammeln. Da ich bereits Grundkenntnisse in Java habe, möchte ich darauf aufbauen und im Laufe des Moduls Python und Flask erlernen.
 
