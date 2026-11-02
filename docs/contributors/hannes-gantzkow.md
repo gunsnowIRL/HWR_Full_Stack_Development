@@ -1,29 +1,23 @@
 [← Contributors](README.md)
 
-> [!CAUTION]
-> Create a separate, individual file for every team member, proposed naming scheme: `📄firstname-lastname.md`.
->
-> *Find and replace* (VS Code: <kbd>Ctrl</kbd>+<kbd>H</kbd> / <kbd>⌘</kbd>+<kbd>H</kbd>) `Jane Dane` with the student's name. On this template page, you will find this name 3 times (including in this `!CAUTION` box). 
->
-> You may delete this `!CAUTION` box.
 
-# Jane Dane
+# Hannes Gantzkow
 
 ## Meta-Goals
 
 ### Target grade
 
-[State your target grade for this module. This is meant as a signal to your fellow team members.]
+Ich ziele immer auf eine zwei, bin über eine drei nicht traurig und eine eins macht meinen Tag ein ganzes Stück besser. Hinter dem Komma ist für mich sekundär. 
 
 ### Personal goals
 
-[State your personal goals regarding this Module, to create transparency among the team members.]
+Mein Ziel ist es vor allem, das Modul in einem angemessenen Aufwand-Nutzen-Verhältnis abzuschließen. Ich bin großer Anhänger des Pareto-Prinzips und freue mich, wenn ich das in meiner Arbeit anwenden kann. Für mich privat möchte ich gerne eine recht gute Note, ein funktionierendes Endprodukt, was bestenfalls als Referenz herhalten kann für spätere Projekte und einen vertiefenderen Einblick in die Koordinierung von Teams bei Programmieraufgaben.
 
 ---
 
 ## Eidesstattliche Erklärung
 
-**[Jane Dane, Matrikelnr.: 1234567]**
+**[Hannes Gantzkow, Matrikelnr.: 77202200692]**
 
 Ich erkläre an Eides statt:
 
