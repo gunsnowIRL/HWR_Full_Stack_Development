@@ -54,7 +54,7 @@ Für die Angebotsseite werden sowohl von den Studierenden als auch von den Unter
 
 ## Happy Paths
 
-Die Praktikumsplattform "PraFi" verbindet die Unternehmen und Studierende, indem sie eine zentrale Schnittstelle für die Vermittlung von Praktikumsangeboten bereitstellt. Außerdem ermöglicht die Plattform eine Kontaktaufnahme zwischen den beiden Nutzergruppen. Studierende können passende Praktikumsangebote entdecken, während Unternehmen ihre Angebote veröffentlichen und potenzielle Bewerber erreichen können. Die Funktionen, wie beispielsweise Jobangebote, Favotriten und Bewerber unterstützen den gesamten Vermittlngsprozess.
+Die Praktikumsplattform "PraFi" verbindet Unternehmen und Studierende, indem sie eine zentrale Schnittstelle für die Vermittlung von Praktikumsangeboten bereitstellt. Außerdem ermöglicht die Plattform eine Kontaktaufnahme zwischen den beiden Nutzergruppen. Studierende können passende Praktikumsangebote entdecken, während Unternehmen ihre Angebote veröffentlichen und potenzielle Bewerber erreichen können. Die Funktionen, wie beispielsweise Jobangebote, Favoriten und Bewerber unterstützen den gesamten Vermittlngsprozess.
 
 ### Demand-Side Happy Path
 
