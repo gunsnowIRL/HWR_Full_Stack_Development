@@ -60,15 +60,36 @@ Illustrate the typical successful interaction with your platform from both user 
 
 ### Demand-Side Happy Path
 
-[Demand-Side Happy Path im HTML-Dokument öffnen](assets/html/happy_paths.drawio.html)
+<img width="930" height="604" alt="image" src="https://github.com/user-attachments/assets/940ee470-93c3-46b7-8e2f-b1bdb523dbf0" />
+
 
 ### Supply-Side Happy Path
 
-[Supply-Side Happy Path im HTML-Dokument öffnen](assets/html/happy_paths.drawio.html)
+<img width="657" height="531" alt="image" src="https://github.com/user-attachments/assets/e7108c74-6639-4025-b41f-438d42af62c9" />
+
 
 ---
 
 ## Initial Target Scope (as per Assignment)
+
+### Student:
+
+Log-in: <img width="1152" height="818" alt="image" src="https://github.com/user-attachments/assets/2f5d5c7f-6c08-4059-94de-10d69ae443de" />
+Startseite: <img width="1153" height="819" alt="image" src="https://github.com/user-attachments/assets/e148c733-64f0-47d5-a72f-95f7c1cd1253" />
+Stellenanzeige (Detailansicht): <img width="1153" height="816" alt="image" src="https://github.com/user-attachments/assets/dfec7396-011d-4205-a912-83ec491f03b9" />
+Gespeicherte Stellenanzeigen: <img width="1107" height="787" alt="image" src="https://github.com/user-attachments/assets/16855ba7-786a-4b5b-9570-c13da906e06f" />
+Profil: <img width="1186" height="843" alt="image" src="https://github.com/user-attachments/assets/82100654-ba8b-473a-b72b-0dba88a6b5f4" />
+
+
+### Unternehmen:
+
+Log-in: <img width="1187" height="842" alt="image" src="https://github.com/user-attachments/assets/034b001e-9d9b-47c0-ab17-562ecb1730b7" />
+Beweberanzeigen: <img width="1187" height="842" alt="image" src="https://github.com/user-attachments/assets/2fa0e824-36dd-4479-aec3-bd77ff33da67" />
+Bewerberanzeige (Detailsicht): <img width="1185" height="842" alt="image" src="https://github.com/user-attachments/assets/48d20df7-130f-4563-9e46-745559714474" />
+Chat: <img width="1185" height="842" alt="image" src="https://github.com/user-attachments/assets/ea99d768-38ce-4a9a-9123-2bcd32be023d" />
+Meine Stellenanzeigen: <img width="1187" height="841" alt="image" src="https://github.com/user-attachments/assets/1baf09ea-bb13-439d-9167-0d25b3f66ae2" />
+
+
 - SVG-Visualisierung im Repo: [Visualisierung als SVG](assets/images/Happy_Paths.svg)
 - Link zum Figma-Projekt: [Erst-Visualisierung der Web-App](https://www.figma.com/design/mNUL20xoICYd0ZvvsiPgz0/AppDevelopment?node-id=0-1&p=f&t=wrRFWj0ddMC6KJ3H-0)
 
