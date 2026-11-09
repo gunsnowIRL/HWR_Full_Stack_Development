@@ -54,9 +54,7 @@ Für die Angebotsseite werden sowohl von den Studierenden als auch von den Unter
 
 ## Happy Paths
 
-[Describe how your platform connects the two groups and facilitates their interaction: What steps lead from an offer or request to a successful match or exchange?
-
-Illustrate the typical successful interaction with your platform from both user perspectives, from from the app's entry point to a completed task. You might want to show the path as (schematic) screen flows. Ensure your "happy path" (a) is consistent with the Value Proposition, (b) demonstrates how the two user groups interact through the platform, and (c) shows the features as actually implemented in the submitted web app.]
+Die Praktikumsplattform "PraFi" verbindet die Unternehmen und Studierende, indem sie eine zentrale Schnittstelle für die Vermittlung von Praktikumsangeboten bereitstellt. Außerdem ermöglicht die Plattform eine Kontaktaufnahme zwischen den beiden Nutzergruppen. Studierende können passende Praktikumsangebote entdecken, während Unternehmen ihre Angebote veröffentlichen und potenzielle Bewerber erreichen können. Die Funktionen, wie beispielsweise Jobangebote, Favotriten und Bewerber unterstützen den gesamten Vermittlngsprozess.
 
 ### Demand-Side Happy Path
 
