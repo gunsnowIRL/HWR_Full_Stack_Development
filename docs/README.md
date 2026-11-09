@@ -1,11 +1,6 @@
-> [!IMPORTANT]
-> Any text enclosed by `[ ]` are **placeholders**, including the opening and closing brackets.
->
-> You may delete this `!IMPORTANT` box.
+# PraFi - Praktikumsfinder
 
-# [Project Name]
-
-[Include a short project description. Below, include a representative, attractive screenshot of your final web app.]
+PraFi ist eine Web-Plattform für die HWR Berlin, die Studierende und Unternehmen bei der Praktikumssuche zusammenbringt. Unternehmen veröffentlichen Praktikumsstellen, Studierende filtern sie nach eigenen Präferenzen. Von der Hochschule anerkannte Stellen sind gekennzeichnet, der Zugang ist auf Hochschulangehörige beschränkt. Nach dem Praktikum können Studierende das Unternehmen bewerten. Prozesse des Praktikumsbüros wie Genehmigungen bildet die Plattform nicht ab.
 
 ![attractive app screenshot](assets/images/fswd-intro_00.png)
 
