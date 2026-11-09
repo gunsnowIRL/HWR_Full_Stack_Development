@@ -1,6 +1,6 @@
 # PraFi - Praktikumsfinder
 
-PraFi ist eine Web-Plattform für die HWR Berlin, die Studierende und Unternehmen bei der Praktikumssuche zusammenbringt. Unternehmen veröffentlichen Praktikumsstellen, Studierende filtern sie nach eigenen Präferenzen. Von der Hochschule anerkannte Stellen sind gekennzeichnet, der Zugang ist auf Hochschulangehörige beschränkt. Nach dem Praktikum können Studierende das Unternehmen bewerten. Prozesse des Praktikumsbüros wie Genehmigungen bildet die Plattform nicht ab.
+PraFi ist eine Web-Plattform für die HWR Berlin, die Studierende und Unternehmen bei der Praktikumssuche zusammenbringt. Unternehmen veröffentlichen Praktikumsstellen, Studierende filtern sie nach eigenen Präferenzen. Von der Hochschule anerkannte Stellen sind gekennzeichnet, der Zugang ist auf Hochschulangehörige beschränkt. Nach dem Praktikum können Studierende das Unternehmen bewerten. 
 
 ![attractive app screenshot](assets/images/fswd-intro_00.png)
 
