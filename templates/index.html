@@ -1,0 +1,51 @@
+{% extends "base.html" %}
+{% block content %}
+    <button type="button" class="btn-outline theme-danger m-4 shadow-lg p-3 rounded " commandfor="invokerDrawer"
+      command="show-modal">
+      Filtern nach...
+    </button>
+    <dialog class="drawer drawer-start" id="invokerDrawer" aria-labelledby="invokerDrawerLabel">
+      <div class="drawer-header">
+        <h5 class="drawer-title" id="invokerDrawerLabel">Filter</h5>
+        <button type="button" class="btn-close" commandfor="invokerDrawer" command="close" aria-label="Close"></button>
+      </div>
+      <!-- hier wurden drei checkboxes erstellt nur als beispiel, bitte später löschen und im backend anpassen: je nach ancklicken des Filters soll die Liste der Praktikumsplätze angepasst werden -->
+      <div class="form-field ms-5">
+        <input type="checkbox" id="checkLabel1" class="check" />
+        <label for="checkLabel1">Beispiel Filter 1</label>
+      </div>
+      <div class="form-field ms-5">
+        <input type="checkbox" id="checkLabel2" class="check" />
+        <label for="checkLabel2">Beispiel Filter 2</label>
+      </div>
+      <div class="form-field ms-5">
+        <input type="checkbox" id="checkLabel3" class="check" />
+        <label for="checkLabel3">Beispiel Filter 3</label>
+      </div>
+      <button class="btn-outline shadow-lg p-3 rounded theme-danger  btn-lg m-7" type="submit">Praktika filtern</button>
+      </dialog>
+  </div>
+  
+  <!-- hier wurden drei cards erstellt nur als beispiel, bitte löschen und im backend anpassen: jeder neue Praktikumsplatz soll eine neue card bekommen, die dann mit den Daten aus der Datenbank gefüllt wird -->
+  <div class="card w-fit p-3 mx-auto my-3">
+    <div class="card-body">
+      <h4 class="card-title">Praktikumstitel</h4>
+      <p class="card-subtitle fg-3">Hier steht der Name der Firma</p>
+      <p class="card-text">Hier steht eine kurze Beschreibung des Praktikums.</p>
+    </div>
+  </div>
+  <div class="card w-fit p-3 mx-auto my-3">
+    <div class="card-body">
+      <h4 class="card-title">Praktikumstitel</h4>
+      <p class="card-subtitle fg-3">Hier steht der Name der Firma</p>
+      <p class="card-text">Hier steht eine kurze Beschreibung des Praktikums.</p>
+    </div>
+  </div>
+  <div class="card w-fit p-3 mx-auto my-3">
+    <div class="card-body">
+      <h4 class="card-title">Praktikumstitel</h4>
+      <p class="card-subtitle fg-3">Hier steht der Name der Firma</p>
+      <p class="card-text">Hier steht eine kurze Beschreibung des Praktikums.</p>
+    </div>
+  </div>
+{%endblock%}

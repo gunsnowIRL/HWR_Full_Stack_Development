@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Startseite</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@6.0.0-alpha.1/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-B/GM4XqrwHnWXNOWMbloTmrYXZg10cakYGmpfsR/bbzQ6JAJI4ihuyADKLnBgrCe" crossorigin="anonymous">
+</head>
+
+<body>
+  <div class="container-fluid px-0">
+    <div class="d-flex align-items-start">
+      <img src="{{url_for('static', filename='hwr_logo.jpg')}}" alt="Logo der HWR Berlin" style="width: 100px; height: auto">
+      <div>
+        <h1 style="color: var(--bs-blue-800)"> PraFi</h1>
+        <h3 style="color: var(--bs-blue-800)">Praktikumsportal der HWR Berlin</h3>
+      </div>
+    </div>
+    <nav class="navbar sm:navbar-expand bg-1 fg-2">
+      <div class="container-fluid">
+        <dialog class="drawer drawer-end" id="navbarNavAltMarkup" aria-labelledby="navbarNavAltMarkupLabel">
+          <div class="drawer-header">
+            <h5 class="drawer-title" id="navbarNavAltMarkupLabel">Menu</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="drawer" aria-label="Close"></button>
+          </div>
+          <div class="drawer-body">
+            <div class="nav nav-pills navbar-nav">
+              <!-- aria current muss irgendwie nicht gehardcoded sein -->
+              <a class="nav-link active shadow-lg theme-danger" aria-current="page" style=" color: var(--bs-white)"
+                href="#">Startseite</a>
+              <a class="nav-link" href="#">Gespeichert</a>
+              <a class="nav-link" href="#">Nachrichten</a>
+              <a class="nav-link" href="#">Profil</a>
+            </div>
+            <form class="d-flex ms-auto" role="search">
+              <input class="form-control me-2 shadow p-3 bg-body rounded" type="search"
+                placeholder="Suchbegriffe eingeben" aria-label="Search" />
+              <button class="btn-outline shadow-lg p-3 rounded theme-danger" type="submit">Suchen</button>
+              <!-- hier überlegen, ob nicht besser noch eigene CSS (siehe style) -->
+            </form>
+          </div>
+          </dialog>
+      </div>
+    </nav>
+<main>
+  {% block content %}
+  {% endblock %}
+</main>
+  <script type="module" src="https://cdn.jsdelivr.net/npm/bootstrap@6.0.0-alpha.1/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-1a/pXj49ZQ1aHEmrJ+gMw1otqoVsYwlEnlD8mIfY2TV03r20Y0CN7uqx1tQogjPL"
+    crossorigin="anonymous"></script>
+</body>
+
+</html>
